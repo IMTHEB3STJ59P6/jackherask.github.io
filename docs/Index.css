@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+.center{
+    margin: 25%;
+}
